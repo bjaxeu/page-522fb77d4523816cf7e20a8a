@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "04de67f74cfe54e5ab64ae8d",
+  "owner": "bjaxeu",
+  "repo": "page-522fb77d4523816cf7e20a8a",
+  "title": "Doctor",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "522fb77d4523816cf7e20a8a",
+      "a": "Doctor",
+      "b": "2027最新官网",
+      "entity": "Doctor",
+      "brand": "Doctor",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "f2ff89f4c1777c794528d92314a34c4e5d2e352b2e313728633b029dc64c0df8",
+      "content": {
+        "primary_entity": "Doctor",
+        "keyword1": "Doctor",
+        "keyword2": "2027最新官网",
+        "content": {
+          "AI_DESCRIPTION": "，Doctor 品牌海外加速器围绕套餐、设备与订阅周期提供清晰的选择路径。基础版每月 100GB 流量与 3 台设备适合个人日常，旗舰版 300GB、5 台设备及 IPLC 专线满足流媒体与游戏需求，团队版 1000GB、20 台设备适合小型协作。按年付费可省两个月费用，选好套餐后按客户端文档配置订阅即可。",
+          "AI_HERO_SUBTITLE": "Doctor 海外加速服务",
+          "AI_HERO_INTRO": "Doctor 是面向海外网络访问的加速器品牌，提供多档套餐按需选择。基础版适合个人轻量使用，旗舰版面向流媒体与游戏，团队版覆盖多设备办公。",
+          "AI_VISUAL_TITLE": "Doctor 加速套餐速览",
+          "AI_HIGHLIGHT_1": "三档套餐覆盖个人到团队",
+          "AI_HIGHLIGHT_2": "旗舰版含 IPLC 专线优化",
+          "AI_HIGHLIGHT_3": "按年付最高节省两个月费用",
+          "AI_FEATURES_TITLE": "套餐与设备选择要点",
+          "AI_FEATURES_INTRO": "Doctor 的套餐差异主要在流量、设备数量和线路类型，按实际使用人数与场景挑选更合适。",
+          "AI_FEATURE_TITLE_1": "按流量选套餐",
+          "AI_FEATURE_TEXT_1": "基础版 100GB、旗舰版 300GB、团队版 1000GB，按每月使用量匹配即可。",
+          "AI_FEATURE_TITLE_2": "按设备数规划",
+          "AI_FEATURE_TEXT_2": "3 台、5 台、20 台三档并发设备上限，多人共享优先考虑团队版。",
+          "AI_FEATURE_TITLE_3": "订阅周期更灵活",
+          "AI_FEATURE_TEXT_3": "月付便于试用，按年付费相当于省下两个月费用，长期使用更划算。",
+          "AI_CLIENTS_TITLE": "按设备选客户端",
+          "AI_CLIENTS_INTRO": "不同设备对应不同的客户端，根据系统选择后按文档导入订阅。",
+          "AI_PLANS_TITLE": "Doctor 套餐对比",
+          "AI_PLANS_INTRO": "下表列出 Doctor 三档套餐的流量、设备数与特色，可结合预算和使用场景选择。",
+          "AI_GUIDE_TITLE": "三步完成使用准备",
+          "AI_GUIDE_INTRO": "从选择服务到配置订阅，三个步骤即可开始使用 Doctor。",
+          "AI_STEP_TITLE_1": "选择服务",
+          "AI_STEP_TEXT_1": "根据流量和设备数量从基础版、旗舰版、团队版中选定一档套餐。",
+          "AI_STEP_TITLE_2": "确认设备数量",
+          "AI_STEP_TEXT_2": "统计需要同时在线的设备数，基础版 3 台、旗舰版 5 台、团队版 20 台，选匹配的档位即可。",
+          "AI_STEP_TITLE_3": "配置订阅",
+          "AI_STEP_TEXT_3": "获取订阅信息后，依照对应客户端文档导入并连接使用。",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_CLOSING_TITLE": "选好套餐，轻松加速",
+          "AI_CLOSING_TEXT": "对比三档套餐后按设备配置订阅，即可开始使用 Doctor 海外加速服务。",
+          "AI_FAQ_ANSWER_1": "基础版支持 3 台设备，旗舰版 5 台，团队版 20 台。设备数量为同时在线上限，超出后需要升级套餐或等待已有设备下线。",
+          "AI_FAQ_ANSWER_2": "可以。在个人中心找到套餐升级入口，补差价即可切换到更高档位，原有剩余时长会按比例折算，无需重新购买。",
+          "AI_FAQ_ANSWER_3": "年付更划算。基础版年付 ¥150，旗舰版年付 ¥350，团队版年付 ¥850，分别相当于十个月月付价格，长期使用建议直接选年付。",
+          "AI_FAQ_ANSWER_4": "常见的 Windows、macOS、iOS 和 Android 客户端均提供订阅地址导入方式，具体以对应客户端的文档说明为准，按步骤填入订阅链接即可。",
+          "AI_FAQ_ANSWER_5": "旗舰版包含 IPLC 专线游戏加速优化和原生流媒体解锁，适合对延迟和流媒体体验有要求的用户；基础版提供普通线路节点池，满足浏览和常规使用。",
+          "AI_FAQ_QUESTION_1": "每档套餐分别支持多少台设备同时在线？",
+          "AI_FAQ_QUESTION_2": "购买后可以中途升级到更高档套餐吗？",
+          "AI_FAQ_QUESTION_3": "月付和年付价格差多少，哪种更划算？",
+          "AI_FAQ_QUESTION_4": "客户端订阅如何导入，支持哪些系统？",
+          "AI_FAQ_QUESTION_5": "旗舰版和基础版在体验上主要区别是什么？",
+          "AI_FAQ_TITLE": "常见问题"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "xn--9kq018e.com",
+    "host": "xn--9kq018e.com"
+  },
+  "file_hashes": {
+    "index.html": "afb62e67c07c0878487c6b5e58bed3813aec7360533011504e5693705fd4b492",
+    "sitemap.xml": "4d3b3ba3f2564055155966608286ecb311e2c3621a59fb0fc559f173c6bbf67b",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "2d836fb7a5b67fe6c53820d85295583974caed5bb96566c6dbf1ff53c374fd25",
+    "robots.txt": "4e07003a637a3653719aadd1e6e23febb60a97571a07ba634c25c942066ca80f",
+    "edf9c10ec2aade93c4ab0dedc5fa178d.txt": "e46dc8a3ceba438bb1b3489498dfd34463b227f53e28f761697d9e3794639605"
+  },
+  "revision": "d31735cf316a3a6450b9299240631ab01cdd027f29243c55ab6d8fbc6a056649"
+}
